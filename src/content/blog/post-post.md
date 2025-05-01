@@ -1,7 +1,7 @@
 ---
 title: 'POST1 - post'
 description: 'PRO'
-pubDate: 'Mai 01 2025'
+pubDate: 'May 01 2025'
 heroImage: '/blog-placeholder-3.jpg'
 ---
 
